@@ -1,6 +1,6 @@
 {
     "name": "${environmentName}",
-    "description": "Maurtic Blueprint",
+    "description": "Mautic Blueprint",
     "version": "1.0.0",
     "ssh-key": "maurtic",
     "author": "https://github.com/akarasulu",
