@@ -1,6 +1,6 @@
 {
     "name": "${environmentName}",
-    "description": "Maurtic Blueprint",
+    "description": "Mautic Blueprint",
     "version": "1.0.0",
     "ssh-key": "maurtic",
     "author": "https://github.com/akarasulu",
@@ -18,7 +18,7 @@
         }
     ],
     "ansible-configuration": {
-        "source-url": "https://github.com/akarasulu/maurtic-bp/archive/master.zip",
+        "source-url": "https://github.com/akarasulu/mautic-bp/archive/master.zip",
         "ansible-playbook": "main.yml",
         "extra-vars": [
             {
